@@ -108,7 +108,7 @@ void loop() {
     Serial.println("NOISY_BRIGHT_MOVING_NEAR");
   } 
   else {
-    Serial.println("NOT SPECIFIED SITUATION");
+    Serial.println("UNCLASSIFIED SITUATION");
   }
   
   delay(500); 
