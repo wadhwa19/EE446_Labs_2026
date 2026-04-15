@@ -40,7 +40,7 @@ void setup() {
     while (1);
   }
 
-  Serial.println("System Initialized. Monitoring workspace...");
+  Serial.println("System Initialized");
 }
 
 void loop() {
